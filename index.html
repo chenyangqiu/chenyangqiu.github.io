@@ -1,250 +1,291 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   
+  <meta name="keywords" content="网站关键字">
+  <meta name="description" content="网站简介">
   
-  <title>Hexo</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://example.com/index.html">
-<meta property="og:site_name" content="Hexo">
-<meta property="og:locale" content="en_US">
-<meta property="article:author" content="John Doe">
-<meta name="twitter:card" content="summary">
+  <title>Technical Blogs of Chenyang Qiu</title>
   
-    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
-  
-  
-    <link rel="shortcut icon" href="/favicon.png">
-  
-  
+    <!-- stylesheets list from config.yml -->
     
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-source-code-pro@0.0.71/index.min.css">
-
-  
-  
-<link rel="stylesheet" href="/css/style.css">
-
-  
+      <link rel="stylesheet" href="/css/materialize.min.css">
     
-<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
-
+      <link rel="stylesheet" href="/css/main.min.css">
+    
   
+  <style type="text/css">
+      html{
+          font-family: sans-serif;
+          font-weight: 300;
+      }
+      @font-face {
+          font-family: 'Material Icons';
+          font-style: normal;
+          font-weight: 400;
+          src: url(/fonts/MaterialIcons-Regular.eot);
+          src: url(/fonts/MaterialIcons-Regular.woff2) format('woff2'),
+          url(/fonts/MaterialIcons-Regular.woff) format('woff'),
+          url(/fonts/MaterialIcons-Regular.ttf) format('truetype')
+      }
+  </style>
+<link rel="shortcut icon" href="/source/favicon.ico">
 <meta name="generator" content="Hexo 6.3.0"></head>
-
 <body>
-  <div id="container">
-    <div id="wrap">
-      <header id="header">
-  <div id="banner"></div>
-  <div id="header-outer" class="outer">
-    <div id="header-title" class="inner">
-      <h1 id="logo-wrap">
-        <a href="/" id="logo">Hexo</a>
-      </h1>
-      
+<div id="menu-box"><a href="javascript:void(0)" id="menu" data-activates="slide-out" class="button-collapse menu" ><span class="nav-btn"></span></a></div>
+<div id="menu-outer">
+  <div id="menu-inner">
+      <ul id="slide-out" class="side-nav" >
+    <div class="nav-header"  style="background-image: url(/images/header-bg.png);background-color:#26A69A">
+    <div class="header-box"><img src="/images/header.png" ondragstart="return false;"></div>
+    <p>Chenyang Qiu</p>
+    <div class="nav-link">
+        
+        
+        <a  href="https://github.com/chenyangqiu" target="_blank"><div class="link-box github"></div></a>
+        
+        
+        
+        <a href="https://weibo.com/u/6092181280" target="_blank"><div class="link-box weibo"></div></a>
+        
+        
+        <a href="https://www.zhihu.com/people/qqq-32-27-14" target="_blank"> <div class="link-box zhihu"></div></a>
+        
     </div>
-    <div id="header-inner" class="inner">
-      <nav id="main-nav">
-        <a id="main-nav-toggle" class="nav-icon"></a>
+    <div class="nav-search">
+        <form id="search-form"> <!-- 搜索框相关 -->
+            <input type="text" id="local-search-input" name="q" results="0" placeholder="搜索..." class="search form-control" autocomplete="off" autocorrect="off"/>
+            <div class="nav-search-img"><i class="material-icons">search</i></div>
+        </form>
+        <div id="local-search-result"></div> <!-- 搜索结果区 -->
+        <p class='no-result'>无搜索结果</p>
+    </div>
+</div>
+    <!--Homepage-->
+
+<li class="nav-list">
+    <a href="/" target="_self">
+        <div class="nav-ico"><i class="material-icons">home</i> </div><p>主页</p>
+    </a>
+</li>
+
+<!--archives-->
+
+<li class="nav-list dropdown-btn">
+    <a  class=""  target="_self">
+        <div class="nav-ico"><i class="material-icons">assignment</i></div><p>归档</p><div class="dropdown-ico"><i class="material-icons">arrow_drop_down</i></div>
+    </a>
+</li>
+
+<ul class="dropdown-menu dropdown" >
+    <li class="nav-dropdown-list">
+        <a class="archive-link" href="/archives/2022/10/">October 2022<span class="archive-count">2</span></a>
+    </li>
+</ul>
+<!--categories-->
+
+<ul class="dropdown-menu dropdown" >
+    <li class="nav-dropdown-list">
         
-          <a class="main-nav-link" href="/">Home</a>
-        
-          <a class="main-nav-link" href="/archives">Archives</a>
-        
-      </nav>
-      <nav id="sub-nav">
-        
-          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
-        
-        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
-      </nav>
-      <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+    </li>
+</ul>
+<!--tags-->
+
+<li class="nav-list">
+    <a href="/archives" target="_self">
+        <div class="nav-ico"><i class="material-icons">bookmark</i> </div><p>标签</p>
+    </a>
+</li>
+
+<!--photo-->
+
+<!--friends-->
+
+<!--about-->
+
+
+</ul>
+
+  </div>
+</div>
+
+<div id="content-outer">
+  <div id="content-inner">
+    
+<div class="post-header" style="background-image:url(/images/coverpic.png);background-color:#26A69A ">
+    <a  href="http://example.com"  >
+        <div class="post-header-title">
+            <p style="">
+                
+                
+                你好 欢迎来到本站
+                
+                
+                <br>
+                
+            </p>
+        </div>
+    </a>
+</div>
+<div class="post-author">
+    <div class="post-author-img"><img src="/images/header.png" ondragstart="return false;"></div>
+    <p class="post-author-name">Chenyang Qiu</p>
+    <div class="post-author-button"  target="_self"><i class="material-icons"  target="_self" style="font-size: 20px">share</i></div>
+    <div class="post-author-link"><ul>
+            <p>分享到：</p>
+            <li><a href="http://v.t.sina.com.cn/share/share.php?url=http://example.com&title=Technical Blogs of Chenyang Qiu" target="_blank">新浪微博</a></li>
+            <li><a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http://example.com" target="_blank">QQ空间</a></li>
+            <li><a href="http://connect.qq.com/widget/shareqq/index.html?title=qqhaoyou&url=http://example.com &desc= Technical Blogs of Chenyang Qiu" target="_blank">QQ好友</a></li>
+        </ul></div>
+</div>
+
+
+<div id="recent-posts">
+    
+    
+    
+    
+    
+  
+    
+      <div class="recent-post-item lazy"style="background-color:#26A69A"  data-original="/images/random/vateral-12.png"  >
+        <a class="recent-post-link" href="/2022/10/26/分布式机器学习/">
+        <div class="post-hover">
+          <!--title-->
+          <p class="post-title"><a href="/2022/10/26/分布式机器学习/" >分布式机器学习</a></p>
+
+          <!--date-->
+          
+            <p class="post-time">Chenyang Qiu &nbsp &nbsp 发布于:<time datetime="2022-10-26T07:00:27.000Z">
+              2022-10-26
+            </time>
+            </p>
+          
+
+          <!--tags-->
+
+          标签:
+            
+              暂无标签
+            
+          <!--分类-->
+
+          分类:
+            
+                暂无分类
+            
+
+          <!--excerpt-->
+          <div class="post-excerpt">
+            <p>
+              摘要：
+              
+                分布式机器学习[TOC]
+机器学习模...
+              
+            </p>
+          </div>
+          <div class="post-more"><a href="/2022/10/26/分布式机器学习/" >全文阅读</a></div>
+        </div>
+        </a>
       </div>
-    </div>
-  </div>
-</header>
-
-      <div class="outer">
-        <section id="main">
-  
-    <article id="post-分布式机器学习" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/2022/10/26/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" class="article-date">
-  <time class="dt-published" datetime="2022-10-26T07:00:27.000Z" itemprop="datePublished">2022-10-26</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/2022/10/26/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">分布式机器学习</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="e-content article-entry" itemprop="articleBody">
-      
-        <h1 id="分布式机器学习"><a href="#分布式机器学习" class="headerlink" title="分布式机器学习"></a>分布式机器学习</h1><p>[TOC]</p>
-<h2 id="机器学习模型"><a href="#机器学习模型" class="headerlink" title="机器学习模型"></a>机器学习模型</h2><h2 id="分布式与大数据框架"><a href="#分布式与大数据框架" class="headerlink" title="分布式与大数据框架"></a>分布式与大数据框架</h2><h3 id="数据的分布式划分与存储"><a href="#数据的分布式划分与存储" class="headerlink" title="数据的分布式划分与存储"></a>数据的分布式划分与存储</h3><h3 id="服务器的分布式协调"><a href="#服务器的分布式协调" class="headerlink" title="服务器的分布式协调"></a>服务器的分布式协调</h3><h4 id="有中心"><a href="#有中心" class="headerlink" title="有中心"></a>有中心</h4><h4 id="无中心"><a href="#无中心" class="headerlink" title="无中心"></a>无中心</h4><h2 id="通信机制"><a href="#通信机制" class="headerlink" title="通信机制"></a>通信机制</h2><h2 id="数据与模型聚合"><a href="#数据与模型聚合" class="headerlink" title="数据与模型聚合"></a>数据与模型聚合</h2><h2 id="优化算法"><a href="#优化算法" class="headerlink" title="优化算法"></a>优化算法</h2><h3 id="非线性优化"><a href="#非线性优化" class="headerlink" title="非线性优化"></a>非线性优化</h3><h3 id="分布式优化算法"><a href="#分布式优化算法" class="headerlink" title="分布式优化算法"></a>分布式优化算法</h3><h4 id="同步算法"><a href="#同步算法" class="headerlink" title="同步算法"></a>同步算法</h4><h4 id="异步算法"><a href="#异步算法" class="headerlink" title="异步算法"></a>异步算法</h4>
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2022/10/26/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" data-id="cl9pafqkd0001jsw8f9pdeqd5" data-title="分布式机器学习" class="article-share-link">Share</a>
-      
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-    <article id="post-hello-world" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
-  <div class="article-meta">
-    <a href="/2022/10/26/hello-world/" class="article-date">
-  <time class="dt-published" datetime="2022-10-26T06:53:14.279Z" itemprop="datePublished">2022-10-26</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="p-name article-title" href="/2022/10/26/hello-world/">Hello World</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="e-content article-entry" itemprop="articleBody">
-      
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://example.com/2022/10/26/hello-world/" data-id="cl9pafqk20000jsw8cce580rd" data-title="Hello World" class="article-share-link">Share</a>
-      
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-
-  
-
-
-</section>
-        
-          <aside id="sidebar">
-  
-    
-
-  
-    
-
-  
     
   
     
-  <div class="widget-wrap">
-    <h3 class="widget-title">Archives</h3>
-    <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/10/">October 2022</a></li></ul>
-    </div>
-  </div>
+      <div class="recent-post-item lazy"style="background-color:#26A69A"  data-original="/images/random/vateral-13.png"  >
+        <a class="recent-post-link" href="/2022/10/26/hello-world/">
+        <div class="post-hover">
+          <!--title-->
+          <p class="post-title"><a href="/2022/10/26/hello-world/" >Hello World</a></p>
 
+          <!--date-->
+          
+            <p class="post-time">Chenyang Qiu &nbsp &nbsp 发布于:<time datetime="2022-10-26T06:53:14.279Z">
+              2022-10-26
+            </time>
+            </p>
+          
 
-  
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">Recent Posts</h3>
-    <div class="widget">
-      <ul>
-        
-          <li>
-            <a href="/2022/10/26/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">分布式机器学习</a>
-          </li>
-        
-          <li>
-            <a href="/2022/10/26/hello-world/">Hello World</a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
+          <!--tags-->
 
-  
-</aside>
-        
+          标签:
+            
+              暂无标签
+            
+          <!--分类-->
+
+          分类:
+            
+                暂无分类
+            
+
+          <!--excerpt-->
+          <div class="post-excerpt">
+            <p>
+              摘要：
+              
+                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems w...
+              
+            </p>
+          </div>
+          <div class="post-more"><a href="/2022/10/26/hello-world/" >全文阅读</a></div>
+        </div>
+        </a>
       </div>
-      <footer id="footer">
+    
   
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      
-      &copy; 2022 John Doe<br>
-      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
-    </div>
-  </div>
-</footer>
-
-    </div>
-    <nav id="mobile-nav">
-  
-    <a href="/" class="mobile-nav-link">Home</a>
-  
-    <a href="/archives" class="mobile-nav-link">Archives</a>
-  
+  <nav class="paging">
+    <span class="page-number current">1</span>
 </nav>
-    
-
-
-<script src="/js/jquery-3.4.1.min.js"></script>
-
-
-
-  
-<script src="/fancybox/jquery.fancybox.min.js"></script>
-
-
-
-
-<script src="/js/script.js"></script>
-
-
+</div>
 
 
 
   </div>
+</div>
+<div id="bottom-outer">
+  <div id="bottom-inner">
+    <a  id="top-button" onfocus="this.blur();"><div class="up upinbody" style="background-color:#26A69A"><i class="material-icons material-up">vertical_align_top</i></div></a>
+
+
+<p style="line-height: 45px">Copyright ©  2017  Technical Blogs of Chenyang Qiu</p>
+<p style="line-height: 45px">Powered by <a href="https://hexo.io/" target="_blank"> Hexo </a> && Theme - <a href="https://github.com/moumao/hexo-theme-Vateral" target="_blank">Vateral</a></p>
+
+  </div>
+</div>
+
+<!--影集界面需要的资源-->
+
+
+
+<!-- scripts list from theme config.yml -->
+
+<script src="/js/jquery-3.1.1.min.js"></script>
+
+<script src="/js/materialize.min.js"></script>
+
+<script src="/js/main.min.js"></script>
+
+
+<script>
+    NProgress.start();
+    NProgress.done();
+    lazy();
+    links();
+    window.onpopstate = menu();
+    //pjax操作
+    $(document).pjax('a:not(.nopjax)', '#content-inner', {fragment:'#content-inner', timeout:8000});
+    $(document).on('pjax:start', NProgress.start).on('pjax:end', NProgress.done)
+        .on('pjax:end', () => {
+            dowmdiv();
+            lazy();
+            toc();
+            links();
+            menu();
+        });
+</script>
+
 </body>
 </html>
