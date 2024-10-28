@@ -74,40 +74,37 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
     <div class='paper-box-text' markdown="1">
         <div class="badge">Journal of Energy Storage, minor revision</div>
         
-        [On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS]
+        On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS
         
         **Chenyang Qiu**, Xiongnan He
     </div>
 </div>
 
-
 <div class='paper-box'>
     <div class='paper-box-text' markdown="1">
         <div class="badge">IEEE Transactions on Automatic Control, under review (second round)</div>
         
-        [New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems]
+        New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems
         
         Yangyang Qian, **Chenyang Qiu**, Zongli Lin, Yacov A. Shamash
     </div>
 </div>
 
-
 <div class='paper-box'>
     <div class='paper-box-text' markdown="1">
         <div class="badge">In Preparation</div>
         
-        [Accelerated Distributed Algorithms for Resource Allocation]
+        Accelerated Distributed Algorithms for Resource Allocation
         
         **Chenyang Qiu**, Zhicheng Deng, Xiongnan He
     </div>
 </div>
 
-
 <div class='paper-box'>
     <div class='paper-box-text' markdown="1">
         <div class="badge">In Preparation</div>
         
-        [A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optimization]
+        A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optimization
         
         **Chenyang Qiu**, Shanying Zhu, Zichong Ou, Jie Lu
     </div>
@@ -116,7 +113,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 
 # 📝 Research Project
 
-- [Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization](2020 September – Now)
+- **Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization**(2020 September – Now)
 - Stochastic second-order proximal algorithm:
 The first stochastic second-order method for addressing smooth, restricted strongly convex optimization over undirected networks which linearly converges to the suboptimum in expectation.
 - Variance-reduced second-order proximal algorithm:
@@ -125,14 +122,14 @@ An exact distributed second-order stochastic algorithm with variance-reduced met
 </div>
 </div>
 
-- [Distributed Mixing-Accelerated Algorithm for Nonconvex Optimization](2021 September – 2023 June)
+- **Distributed Mixing-Accelerated Algorithm for Nonconvex Optimization**(2021 September – 2023 June)
 - A distributed mixing-accelerated primal-dual proximal algorithm for distributed nonconvex smooth optimization which sublinearly converges to the stationary solution with general nonconvex assumption
 and linearly converges to the optimal solution with P-Ł condition.
 
 </div>
 </div>
 
-- [Distributed Battery Energy Storage Systems](2023 September – Now)
+- **Distributed Battery Energy Storage Systems**(2023 September – Now)
 - Trade-off strategy between the usage preference of battery and state-of-charge (SoC) balancing:
 A novel optimization problem formulation that considers the trade-off between the usage preference of battery units and SoC balancing and reformulated it into a distributed optimization problem by estimating a certain global variable.
 - Fast SoC balancing algorithm:
@@ -141,13 +138,14 @@ A novel sufficient condition on the power of each battery for achieving SoC bala
 </div>
 </div>
 
-- [Distributed Accelerated algorithm for Resource Allocation](2024 April – Now)
+- **Distributed Accelerated algorithm for Resource Allocation**(2024 April – Now)
 - An accelerated Lagrangian-based algorithm solving the dual problem of the resource allocation problem which converges to the optimal solution with convex assumption at a nonergodic O(1/k) rate.
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
+
 - *2023* Outstanding Student, ShanghaiTech University
 - *2021 - 2022* Merit Student, ShanghaiTech University 
 - *2019 – 2020* Third Academic Scholarship, Shandong University
