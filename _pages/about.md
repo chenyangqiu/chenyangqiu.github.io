@@ -38,7 +38,9 @@ for Distributed Optimization” was accepted by [IEEE](https://ieeexplore.ieee.o
 
 # 📝 Publications & In Preparation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Vehicular Technology, 2024</div><img src='images/Pub1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">IEEE Transactions on Vehicular Technology, 2024</div><img src='images/Pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed Task Offloading in Cooperative Mobile Edge Computing Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)
