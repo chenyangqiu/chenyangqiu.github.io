@@ -78,7 +78,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 
 On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS
 
-**Chenyang Qiu**, Xiongnan He
+**Chenyang Qiu**, Yangyang Qian, Zongli Lin, Yacov A. Shamash
 
 </div>
 </div>
