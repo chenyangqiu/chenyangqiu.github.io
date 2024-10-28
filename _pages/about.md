@@ -168,4 +168,4 @@ External Reviewer:
 - 2024 International Conference on Unmanned Aircraft Systems (ICUAS)
 - Transactions of the Institute of Measurement and Control
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=0z49IMFRox_9KzggqBPccQgZ4d6atY78GZ-OKKDg7Mw&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=mlY8dMekd730lg6uKpYtv87fUU1atpiGYVSbMrq_ryY&cl=ffffff&w=a"></script>
