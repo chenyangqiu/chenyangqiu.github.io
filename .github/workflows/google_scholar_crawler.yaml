@@ -1,9 +1,12 @@
 name: Get Citation Data
 
 on:
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'  # 每天 UTC 时间 08:00 触发
+    - cron: '0 8 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   build:
