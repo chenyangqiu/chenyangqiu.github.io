@@ -17,42 +17,155 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a Research Assistant working with Prof. [Zongli Lin](https://scholar.google.com/citations?user=n4fG76YAAAAJ&hl=en) and Postdoc [Xiongnan He](https://scholar.google.com/citations?user=5eMfCQoAAAAJ&hl=en) at [University of Virginia](https://www.virginia.edu/). I got my master's degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by Prof. [Jie Lu](https://scholar.google.se/citations?user=ShCBK4oAAAAJ&hl=en). Before that, I received my bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published 7 papers and am still doing some related research project until now. My research interest includes:
 
+* Distributed optimization
+* Distributed learning
+* Stochastic optimization
+
+<div style="color: red;">
+    I'm actively applying for Ph.D. positions in related field in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
+</div>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 “Distributed Task Offloading in Cooperative Mobile Edge Computing Networks” was accepted by [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)!. 
+- *2024.03*: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC2024](https://doi.org/10.48550/arXiv.2304.02830)!.
+- *2023.08*: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
+- *2023.02*: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method
+for Distributed Optimization” was accepted by [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
 
-# 📝 Publications 
+# 📝 Publications & In Preparation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Vehicular Technology, 2024</div><img src='images/Pub1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Distributed Task Offloading in Cooperative Mobile Edge Computing Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Dandan Wang, Hongbin Zhu, **Chenyang Qiu**, Yong Zhou, Jie Lu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC2024</div><img src='images/Pub2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixing-accelerated Primal-dual Proximal Algorithm for Distributed Nonconvex Optimization](https://arxiv.org/pdf/2304.02830)
+
+Zichong Ou, **Chenyang Qiu**, Jie Lu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Control Systems Letters, 2023</div><img src='images/Pub3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Stochastic Second-Order Proximal Method for Distributed Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)
+
+**Chenyang Qiu**, Shanying Zhu, Zichong Ou, Jie Lu
+
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-text' markdown="1">
+        <div class="badge">Journal of Energy Storage, minor revision</div>
+        
+        [On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS]
+        
+        **Chenyang Qiu**, Xiongnan He
+    </div>
+</div>
+
+
+<div class='paper-box'>
+    <div class='paper-box-text' markdown="1">
+        <div class="badge">IEEE Transactions on Automatic Control, under review (second round)</div>
+        
+        [New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems]
+        
+        Yangyang Qian, **Chenyang Qiu**, Zongli Lin, Yacov A. Shamash
+    </div>
+</div>
+
+
+<div class='paper-box'>
+    <div class='paper-box-text' markdown="1">
+        <div class="badge">In Preparation</div>
+        
+        [Accelerated Distributed Algorithms for Resource Allocation]
+        
+        **Chenyang Qiu**, Zhicheng Deng, Xiongnan He
+    </div>
+</div>
+
+
+<div class='paper-box'>
+    <div class='paper-box-text' markdown="1">
+        <div class="badge">In Preparation</div>
+        
+        [A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optimization]
+        
+        **Chenyang Qiu**, Shanying Zhu, Zichong Ou, Jie Lu
+    </div>
+</div>
+
+
+# 📝 Research Project
+
+- [Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization](2020 September – Now)
+- Stochastic second-order proximal algorithm:
+The first stochastic second-order method for addressing smooth, restricted strongly convex optimization over undirected networks which linearly converges to the suboptimum in expectation.
+- Variance-reduced second-order proximal algorithm:
+An exact distributed second-order stochastic algorithm with variance-reduced methods algorithm which linearly converges to the exact optimum in expectation.
+
+</div>
+</div>
+
+- [Distributed Mixing-Accelerated Algorithm for Nonconvex Optimization](2021 September – 2023 June)
+- A distributed mixing-accelerated primal-dual proximal algorithm for distributed nonconvex smooth optimization which sublinearly converges to the stationary solution with general nonconvex assumption
+and linearly converges to the optimal solution with P-Ł condition.
+
+</div>
+</div>
+
+- [Distributed Battery Energy Storage Systems](2023 September – Now)
+- Trade-off strategy between the usage preference of battery and state-of-charge (SoC) balancing:
+A novel optimization problem formulation that considers the trade-off between the usage preference of battery units and SoC balancing and reformulated it into a distributed optimization problem by estimating a certain global variable.
+- Fast SoC balancing algorithm:
+A novel sufficient condition on the power of each battery for achieving SoC balancing of the battery network; A new power allocating controllers such that accelerated SoC balancing is achieved.
+
+</div>
+</div>
+
+- [Distributed Accelerated algorithm for Resource Allocation](2024 April – Now)
+- An accelerated Lagrangian-based algorithm solving the dual problem of the resource allocation problem which converges to the optimal solution with convex assumption at a nonergodic O(1/k) rate.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Outstanding Student, ShanghaiTech University
+- *2021 - 2022* Merit Student, ShanghaiTech University 
+- *2019 – 2020* Third Academic Scholarship, Shandong University
+- *2019* Advanced Individual in Social Practice, Shandong University
+- *2018 – 2019* "Research and Innovation" Scholarship, Shandong University
+- *2019* First Prize in Engineering Robot Competition Fighting Robot Group, Jiangsu Province, China
+- *2018* Second Prize in Mathematical Contest in Modeling, Shandong Province, China
+- *2018* Second Prize in National Undergraduate Electronic Design Contest, Shandong Province, China
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020.09 - 2023.06*, MSc, **ShanghaiTech University**, Communication and Information Systems
+- *2016.09 - 2020.06*, Bachelor, **Shanghai University**, Control Science and Technology
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Service
+
+External Reviewer:
+- 2024 IEEE Conference on Decision and Control (CDC)
+- 2024 American Control Conference (ACC)
+- 2024 International Conference on Unmanned Aircraft Systems (ICUAS)
+- Transactions of the Institute of Measurement and Control
+
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
