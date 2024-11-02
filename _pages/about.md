@@ -19,11 +19,12 @@ redirect_from:
 
 I am now a Research Assistant working with Prof. [Zongli Lin](https://scholar.google.com/citations?user=n4fG76YAAAAJ&hl=en) and Postdoc [Xiongnan He](https://scholar.google.com/citations?user=5eMfCQoAAAAJ&hl=en) at [University of Virginia](https://www.virginia.edu/). I got my master's degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by Prof. [Jie Lu](https://scholar.google.se/citations?user=ShCBK4oAAAAJ&hl=en). Before that, I received my bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/).
 
-I have published several papers and am still doing some related research project until now. My research interest includes:
+I have published several papers and am currently engaged in related research projects. Additionally, I have been invited to serve as a reviewer for academic conferences and journals. 
+My long-term research interest includes:
 
 - Distributed optimization
-- Distributed learning
-- Stochastic optimization
+- Distributed learning/Federated learning
+- Stochastic optimization in machine learning
 
 <div style="color: red;">
     I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.
