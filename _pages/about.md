@@ -34,7 +34,7 @@ My long-term research interest includes:
 # 🔥 News
 
 - _2024.07_: &nbsp;🎉🎉 “Distributed Task Offloading in Cooperative Mobile Edge Computing Networks” was accepted by [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)!.
-- _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC2024](https://doi.org/10.48550/arXiv.2304.02830)!.
+- _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC 2024](https://doi.org/10.48550/arXiv.2304.02830)!.
 - _2023.08_: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
 - _2023.02_: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method
   for Distributed Optimization” was accepted by [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
@@ -55,7 +55,7 @@ Dandan Wang, Hongbin Zhu, **Chenyang Qiu**, Yong Zhou, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC2024</div><img src='images/Pub2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC, 2024</div><img src='images/Pub2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mixing-accelerated Primal-dual Proximal Algorithm for Distributed Nonconvex Optimization](https://arxiv.org/pdf/2304.02830)
