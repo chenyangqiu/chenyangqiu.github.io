@@ -155,7 +155,7 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
 - _2023_ Outstanding Graduate Student, ShanghaiTech University
 - _2021 - 2022_ Merit Student, ShanghaiTech University
 <!-- - _2019 – 2020_ Third Academic Scholarship, Shandong University -->
-<!--- _2019_ Advanced Individual in Social Practice, Shandong University -->
+- _2019_ Advanced Individual in Social Practice, Shandong University 
 - _2018 – 2019_ "Research and Innovation" Scholarship, Shandong University
 - _2019_ First Prize in Engineering Robot Competition Fighting Robot Group, Jiangsu Province, China
 - _2018_ Second Prize in Mathematical Contest in Modeling, Shandong Province, China
