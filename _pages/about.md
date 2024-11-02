@@ -20,6 +20,7 @@ redirect_from:
 I am now a Research Assistant working with Prof. [Zongli Lin](https://scholar.google.com/citations?user=n4fG76YAAAAJ&hl=en) and Postdoc [Xiongnan He](https://scholar.google.com/citations?user=5eMfCQoAAAAJ&hl=en) at [University of Virginia](https://www.virginia.edu/). I got my master's degree from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), advised by Prof. [Jie Lu](https://scholar.google.se/citations?user=ShCBK4oAAAAJ&hl=en). Before that, I received my bachelor's degree from [Shandong University](https://www.en.sdu.edu.cn/).
 
 I have a broad interest in optimization problems and network-related issues, and I aim to combine theoretical research with practical applications. I have published several papers and am currently engaged in related research projects. Additionally, I have been invited to serve as a reviewer for academic conferences and journals. 
+
 My long-term research interest includes:
 
 - Distributed optimization
