@@ -113,6 +113,11 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
 </div>
 </div>
 
+# 📖 Educations
+
+- _2020.09 - 2023.06_, MSc, **ShanghaiTech University**, Communication and Information Systems
+- _2016.09 - 2020.06_, Bachelor, **Shandong University**, Control Science and Technology
+
 # 📝 Research Project
 
 - (2020.09 - Now) **Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization**
@@ -154,10 +159,7 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
 - _2018_ Second Prize in Mathematical Contest in Modeling, Shandong Province, China
 - _2018_ Second Prize in National Undergraduate Electronic Design Contest, Shandong Province, China
 
-# 📖 Educations
 
-- _2020.09 - 2023.06_, MSc, **ShanghaiTech University**, Communication and Information Systems
-- _2016.09 - 2020.06_, Bachelor, **Shandong University**, Control Science and Technology
 
 # 💻 Professional Service
 
