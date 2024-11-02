@@ -37,7 +37,7 @@ My long-term research interest includes:
 - _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC 2024](https://doi.org/10.48550/arXiv.2304.02830)!.
 - _2023.08_: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
 - _2023.02_: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method
-  for Distributed Optimization” was accepted by [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
+  for Distributed Optimization” was accepted by [IEEE Control Systems Letters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
 
 # 📝 Publications and In Preparation
 
