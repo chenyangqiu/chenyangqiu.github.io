@@ -122,7 +122,7 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
 
 # 📝 Research Project
 
-- (2020.09 - Now) **Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization**
+- (2020.09 - 2023.06) **Distributed Second-Order Algorithms for Large-Scale Stochastic Optimization**
 
   - Stochastic second-order proximal algorithm:
 
@@ -148,7 +148,7 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
     A novel sufficient condition on the power of each battery for achieving SoC balancing of the battery network; A new power allocating controllers such that accelerated SoC balancing is achieved.
 
 - (2024.04 – Now) **Distributed Accelerated algorithm for Resource Allocation**
-  - An accelerated Lagrangian-based algorithm solving the dual problem of the resource allocation problem which converges to the optimal solution with convex assumption at a nonergodic O(1/k) rate.
+  - An accelerated Lagrangian-based algorithm solving the dual problem of the resource allocation problem which converges to the optimal solution with the strongly convex assumption at a nonergodic $O(1/k^2)$ rate.
 
 # 🎖 Honors and Awards
 
