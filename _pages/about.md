@@ -27,9 +27,9 @@ My long-term research interest includes:
 - Distributed learning/Federated learning
 - Multiagent systems
 
-<div style="color: red;">
+<!-- <div style="color: red;">
     I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.
-</div>
+</div> -->
 
 # 🔥 News
 - _2024.11_: &nbsp;🎉🎉 “On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS” was accepted by [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)!.
