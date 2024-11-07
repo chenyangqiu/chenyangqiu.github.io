@@ -25,7 +25,7 @@ My long-term research interest includes:
 
 - Distributed optimization
 - Distributed learning/Federated learning
-- Stochastic optimization in machine learning
+- Multiagent systems
 
 <div style="color: red;">
     I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.
