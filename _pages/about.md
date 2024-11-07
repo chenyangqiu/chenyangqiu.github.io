@@ -32,12 +32,11 @@ My long-term research interest includes:
 </div>
 
 # 🔥 News
-
+- _2024.11_: &nbsp;🎉🎉 “On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS” was accepted by [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)!.
 - _2024.07_: &nbsp;🎉🎉 “Distributed Task Offloading in Cooperative Mobile Edge Computing Networks” was accepted by [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)!.
 - _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC 2024](https://doi.org/10.48550/arXiv.2304.02830)!.
 - _2023.08_: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
-- _2023.02_: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method
-  for Distributed Optimization” was accepted by [IEEE Control Systems Letters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
+- _2023.02_: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method for Distributed Optimization” was accepted by [IEEE Control Systems Letters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
 
 # 📝 Publications and In Preparation
 
@@ -75,7 +74,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, minor revision</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, accepted</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS](https://track.authorhub.elsevier.com/?uuid=0b8359f9-8e53-4452-aed7-c5f1db937348)
