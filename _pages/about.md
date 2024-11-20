@@ -23,9 +23,9 @@ I have a broad interest in optimization problems and network-related issues, and
 
 My long-term research interest includes:
 
-- Distributed optimization
+- Optimization
 - Distributed learning/Federated learning
-- Multiagent systems
+- Multiagent systems and decision-making
 
 <!-- <div style="color: red;">
     I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.
