@@ -116,8 +116,8 @@ A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optim
 
 # 📖 Educations
 
-- _2020.09 - 2023.06_, MSc, **ShanghaiTech University**, Communication and Information Systems
-- _2016.09 - 2020.06_, Bachelor, **Shandong University**, Control Science and Technology
+- _2020.09 - 2023.06_, MSc, **ShanghaiTech University** (Co-Founded by the Chinese Academy of Sciences), Communication and Information Systems
+- _2016.09 - 2020.06_, Bachelor, **Shandong University**, Control Science and Technology (Elite Experimental Class for Talents)
 
 # 📝 Research Project
 
