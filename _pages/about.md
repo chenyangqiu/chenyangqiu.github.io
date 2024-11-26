@@ -77,7 +77,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, accepted</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS](https://track.authorhub.elsevier.com/?uuid=0b8359f9-8e53-4452-aed7-c5f1db937348)
+[On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS]
 
 **Chenyang Qiu**, Yangyang Qian, Zongli Lin, Yacov A. Shamash
 
