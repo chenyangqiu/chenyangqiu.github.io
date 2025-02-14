@@ -27,12 +27,12 @@ My long-term research interest includes:
 - Distributed learning/Federated learning
 - Multiagent systems and decision-making
 
-<!-- <div style="color: red;">
-    I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.
-</div> -->
+{%<!-- <div style="color: red;">%}
+{%    I'm actively applying for Ph.D. positions in related field in 2025 Spring and Fall. Feel free to email me for academic cooperations or potential interviews.%}
+{% </div> --> %}
 
 # 🔥 News
-- _2024.11_: &nbsp;🎉🎉 “On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS” was accepted by [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)!.
+- _2024.11_: &nbsp;🎉🎉 “Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS” was accepted by [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)!.
 - _2024.07_: &nbsp;🎉🎉 “Distributed Task Offloading in Cooperative Mobile Edge Computing Networks” was accepted by [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)!.
 - _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC 2024](https://doi.org/10.48550/arXiv.2304.02830)!.
 - _2023.08_: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
@@ -74,10 +74,10 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, accepted</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Trade-off Between SoC Balancing and Strategic Usage of Batteries in a BESS]
+[Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS](https://www.sciencedirect.com/science/article/pii/S2352152X24041367)
 
 **Chenyang Qiu**, Yangyang Qian, Zongli Lin, Yacov A. Shamash
 
