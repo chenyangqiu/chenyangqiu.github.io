@@ -84,7 +84,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control,<br> under review (second round)</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control,<br> accepted, 2025 (second round)</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems
