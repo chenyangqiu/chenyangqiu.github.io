@@ -74,7 +74,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, 2025</div><img src='images/sketch map 3.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, 2025</div><img src='images/sketch map 3-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS](https://www.sciencedirect.com/science/article/pii/S2352152X24041367)
