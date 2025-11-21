@@ -102,7 +102,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 
 # 📖 Educations
 
-- _2023.09 -, PhD., **University of Virginia**, Electrical and Computer Engineering
+- _2023.09_ -, PhD., **University of Virginia**, Electrical and Computer Engineering
 - _2020.09 - 2023.06_, MSc, **ShanghaiTech University** (Co-Founded by the Chinese Academy of Sciences), Communication and Information Systems
 - _2016.09 - 2020.06_, Bachelor, **Shandong University**, Control Science and Technology (Elite Experimental Class for Talents)
 
