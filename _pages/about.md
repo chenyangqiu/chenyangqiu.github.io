@@ -99,22 +99,6 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-Accelerated Distributed Algorithms for Resource Allocation
-
-**Chenyang Qiu**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div></div></div>
-<div class='paper-box-text' markdown="1">
-
-A Variance-Reduced Second-Order Proximal Method for Distributed Stochastic Optimization
-
-**Chenyang Qiu**, Shanying Zhu, Zichong Ou, Jie Lu
-
-</div>
-</div>
 
 # 📖 Educations
 
