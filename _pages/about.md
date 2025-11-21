@@ -96,9 +96,6 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 # 📖 Educations
 
