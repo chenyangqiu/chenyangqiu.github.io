@@ -27,9 +27,6 @@ My long-term research interest includes:
 - Distributed control
 - Multi-agent systems and decision-making problems
 
----<div style="color: red;">
-    I am actively applying for internship positions in related fields for Summer 2026. Feel free to contact me regarding academic collaborations or potential interview opportunities.
- </div> ---
 
 # 🔥 News
 - _2026.07_: &nbsp;🎉🎉 Two papers were accepted by [65th IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/). See you in Honolulu, Hawaii!
