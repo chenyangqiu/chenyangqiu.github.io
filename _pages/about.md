@@ -140,6 +140,7 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 
 # 🎖 Honors and Awards
 
+- _2026_ Outstanding Graduate Teaching Assistant, University of Virginia
 - _2023_ Outstanding Graduate Student, ShanghaiTech University
 - _2021 - 2022_ Merit Student, ShanghaiTech University
 - _2020 - 2023_ Graduate Student Scholarship, ShanghaiTech University
@@ -157,10 +158,11 @@ Zichong Ou, **Chenyang Qiu**, Jie Lu
 External Reviewer:
 
 - Automatica
+- IEEE Transactions on Industrial Electronics (TIE)
 - Transactions of the Institute of Measurement and Control
-- 2024, 2025 IEEE Conference on Decision and Control (CDC)
-- 2024, 2025 American Control Conference (ACC)
-- 2024 International Conference on Unmanned Aircraft Systems (ICUAS)
+- IEEE Conference on Decision and Control (CDC)
+- American Control Conference (ACC)
+- International Conference on Unmanned Aircraft Systems (ICUAS)
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=mlY8dMekd730lg6uKpYtv87fUU1atpiGYVSbMrq_ryY&cl=ffffff&w=a"></script>
