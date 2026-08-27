@@ -24,15 +24,18 @@ I have a broad interest in optimization problems and network-related issues, and
 My long-term research interest includes:
 
 - Optimization
-- Distributed learning
-- Multiagent systems and decision-making problems
+- Distributed control
+- Multi-agent systems and decision-making problems
 
-<div style="color: red;">
+---<div style="color: red;">
     I am actively applying for internship positions in related fields for Summer 2026. Feel free to contact me regarding academic collaborations or potential interview opportunities.
- </div> 
+ </div> ---
 
 # 🔥 News
-- _2025.08_: &nbsp;🎉🎉 “New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems” was accepted by [IEEE Transactions on Automatic Control](https://ieeecss.org/publication/transactions-automatic-control)!.
+- _2026.07_: &nbsp;🎉🎉 Two papers were accepted by [65th IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/). See you in Honolulu, Hawaii!
+- _2026.03_: &nbsp;🎉🎉 “Dynamic Average Consensus with Privacy Guarantees and Its Application to Battery Energy Storage Systems” was accepted by [IEEE Control Systems Letters](https://ieeecss.org/publication/ieee-control-systems-letters)!
+- _2026.01_: &nbsp;🎉🎉 One paper was accepted by [American Control Conference (ACC)](https://acc2026.a2c2.org/), and I got the Student Travel Grant. See you in New Orleans!
+- _2025.08_: &nbsp;🎉🎉 “New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems” was accepted by [IEEE Transactions on Automatic Control](https://ieeecss.org/publication/transactions-automatic-control)!
 - _2024.11_: &nbsp;🎉🎉 “Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS” was accepted by [Journal of Energy Storage](https://www.sciencedirect.com/journal/journal-of-energy-storage)!.
 - _2024.07_: &nbsp;🎉🎉 “Distributed Task Offloading in Cooperative Mobile Edge Computing Networks” was accepted by [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423182)!.
 - _2024.03_: &nbsp;🎉🎉 “A Mixing-Accelerated Primal-Dual Proximal Algorithm for Distributed Nonconvex Optimization” was accepted by [ACC 2024](https://doi.org/10.48550/arXiv.2304.02830)!.
