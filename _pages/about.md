@@ -40,7 +40,7 @@ My long-term research interest includes:
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control,<br> 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control, 2025</div><img src='images/SoC_TAC.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems](https://ieeexplore.ieee.org/abstract/document/11145751)
