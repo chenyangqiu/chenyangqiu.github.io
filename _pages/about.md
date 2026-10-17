@@ -38,9 +38,9 @@ My long-term research interest includes:
 - _2023.08_: &nbsp;🎉🎉 Chenyang served as Research Assistant in [University of Virginia](https://www.virginia.edu/)!.
 - _2023.02_: &nbsp;🎉🎉 “A Stochastic Second-Order Proximal Method for Distributed Optimization” was accepted by [IEEE Control Systems Letters](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044149)!.
 
-# 📝 Publications and In Preparation
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control,<br> Early Access, 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control,<br> 2025</div></div></div>
 <div class='paper-box-text' markdown="1">
   
 [New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems](https://ieeexplore.ieee.org/abstract/document/11145751)
