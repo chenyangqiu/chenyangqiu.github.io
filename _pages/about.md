@@ -23,8 +23,7 @@ I have a broad interest in optimization problems and network-related issues, and
 
 My long-term research interest includes:
 
-- Optimization
-- Distributed control
+- Optimization and control
 - Multi-agent systems and decision-making problems
 
 
