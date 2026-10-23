@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Chenyang Qiu(邱晨阳)"
-description: "Actively seeking an internship in 2026 Summer"
+description: "Actively seeking an internship in 2027"
 repository: "chenyangqiu/chenyang.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Chenyang Qiu"
   avatar: "images/self_picture.jpg"
-  bio: "Self-motivated and creative"
+  bio: # "Self-motivated and creative"
   location: "Charlottesville, VA"
   employer:
   pubmed:
@@ -43,7 +43,7 @@ author:
   instagram:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: # e.g., "linkedin username"
+  linkedin: "https://www.linkedin.com/in/chenyang-qiu-b12504334/?isSelfProfile=true"
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid: # e.g., "https://orcid.org/xxxx"
   pinterest:
