@@ -28,6 +28,7 @@ My long-term research interest includes:
 
 
 # 🔥 News
+- _2026.10_: &nbsp;🎉🎉 “An Accelerated Distributed Algorithm for Strongly Convex Optimization with Equality and Inequality Coupled Constraints” was accepted by [IEEE Transactions on Automatic Control](https://ieeecss.org/publication/transactions-automatic-control)!
 - _2026.07_: &nbsp;🎉🎉 Two papers were accepted by [65th IEEE Conference on Decision and Control (CDC)](https://cdc2026.ieeecss.org/). See you in Honolulu, Hawaii!
 - _2026.03_: &nbsp;🎉🎉 “Dynamic Average Consensus with Privacy Guarantees and Its Application to Battery Energy Storage Systems” was accepted by [IEEE Control Systems Letters](https://ieeecss.org/publication/ieee-control-systems-letters)!
 - _2026.01_: &nbsp;🎉🎉 One paper was accepted by [American Control Conference (ACC)](https://acc2026.a2c2.org/), and I got the Student Travel Grant. See you in New Orleans!
