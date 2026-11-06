@@ -40,22 +40,22 @@ My long-term research interest includes:
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, 2025</div><img src='images/sketch map 3-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS](https://www.sciencedirect.com/science/article/pii/S2352152X24041367)
-
-**Chenyang Qiu**, Yangyang Qian, Zongli Lin, Yacov A. Shamash
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Automatic Control, 2025</div><img src='images/SoC_TAC.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [New Conditions and Controllers for State-of-Charge Balancing in Battery Energy Storage Systems](https://ieeexplore.ieee.org/abstract/document/11145751)
 
 Yangyang Qian, **Chenyang Qiu**, Zongli Lin, Yacov A. Shamash
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Energy Storage, 2025</div><img src='images/sketch map 3-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Distributed optimization for the trade-off between state-of-charge balancing and strategic battery usage in a networked BESS](https://www.sciencedirect.com/science/article/pii/S2352152X24041367)
+
+**Chenyang Qiu**, Yangyang Qian, Zongli Lin, Yacov A. Shamash
 
 </div>
 </div>
